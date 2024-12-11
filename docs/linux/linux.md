@@ -2,7 +2,7 @@
  
 **Table of Contens**
 - [Linux filesystem and hierarchy](#Linux-filesystem-and-hierarchy)
-- [SSH Server Configuration & secure the SSH server](#SSH-Server-Configuration-&-secure-the-SSH-server)
+- [SSH Server Configuration & secure the SSH server](#SSH-Server-Configuration)
 
 ## Linux filesystem and hierarchy
 - ***Linux filesystem*** : The Linux filesystem is the foundation of any Linux-based operating system. It dictates how files are stored, organized, and accessed. Understanding this system is crucial for any DevOps engineer, as it influences everything from system performance to security and deployment processes. This article aims to provide a comprehensive guide to the Linux filesystem, breaking down its structure, key concepts, and practical applications.
