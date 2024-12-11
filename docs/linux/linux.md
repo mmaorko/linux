@@ -5,7 +5,8 @@
 - [SSH Server Configuration & secure the SSH server](#Using=Netplan=to=set=upn)
 - 
 
-## Linux filesystem and hierarchy
+## Using Netplan to set up a Static IP Configuration
+
 - ***Linux filesystem*** : The Linux filesystem is the foundation of any Linux-based operating system. It dictates how files are stored, organized, and accessed. Understanding this system is crucial for any DevOps engineer, as it influences everything from system performance to security and deployment processes. This article aims to provide a comprehensive guide to the Linux filesystem, breaking down its structure, key concepts, and practical applications.
 
 - ***Hierarchy***: The Linux filesystem is hierarchical, meaning it has a root directory (/) from which all other files and directories branch out, forming a tree-like structure. This structure is consistent across all Linux distributions, making navigating and managing multiple systems easier. The Filesystem Hierarchy Standard (FHS) defines the directory structure and directory contents in Linux systems. Adherence to FHS ensures that software behaves predictably across different Linux distributions.
@@ -36,7 +37,7 @@
  - ***opt*** : optional or third-party software.
  - ***srv*** : It contains server-specific and server-related files. For example, if you run a HTTP server, it’s a good practice to store the website data in the /srv directory.
 
-## Using Netplan to set up a Static IP Configuration
+## Linux filesystem and hierarchy
 ### Netplan
  Netplan is a utility for easily configuring networking on a linux system. You simply create a YAML description of the required network interfaces and what each should be configured to do. From this description, Netplan will generate all the necessary configurations for your chosen renderer tool.
 ### How to Configure Static IP Address on Ubuntu 24.04.1
