@@ -9,14 +9,4 @@
 - [Set up and manage logical volumes using customized LVM configurations](#Set-up-and-manage-logical-volumes-using-customized-LVM-configurations)
 - [Set up and manage logical volumes using customized LVM configurations](#Set-up-and-manage-logical-volumes-using-customized-LVM-configurations)
 
-
-
-## SSH Key-Based Authentication, Configure SSH to use key-based authentication for improved security.
-
-## SSH Custom Configuration.
-
-## Customize SSH settings to enhance usability and security, like ssh via hostname
-
-## Set up and manage logical volumes using customized LVM configurations
-
  
