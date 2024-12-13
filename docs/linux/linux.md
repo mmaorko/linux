@@ -1,7 +1,7 @@
 # Overview of Linux
  
 **Table of Contens**
-- [Linux filesystem and hierarchy](https://github.com/mmaorko/linux/blob/main/docs/linux/all-notes/0-Linux-filesystem-and-hierarchy.md)
+- [Linux filesystem and hierarchy](all-notes/0-Linux-filesystem-and-hierarchy.md)
 - [Using Netplan to set up a Static IP Configuration](#Using-Netplan-to-set-up-a-Static-IP-Configuration)
 - [SSH Server Configuration and secure the SSH server.](#SSH-Server-Configuration-and-secure-the-SSH-server)
 - [SSH Key-Based Authentication, Configure SSH to use key-based authentication for improved security](#SSH-Key-Based-Authentication,-Configure-SSH-to-use-key-based-authentication-for-improved-security)
