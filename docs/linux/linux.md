@@ -2,7 +2,7 @@
  
 **Table of Contens**
 - [Linux filesystem and hierarchy](all-notes/0-Linux-filesystem-and-hierarchy.md)
-- [Using Netplan to set up a Static IP Configuration](#Using-Netplan-to-set-up-a-Static-IP-Configuration)
+- [Using Netplan to set up a Static IP Configuration](all-notes/01-Using-Netplan-to-set-up-a-Static-IP-Configuration.md)
 - [SSH Server Configuration and secure the SSH server.](#SSH-Server-Configuration-and-secure-the-SSH-server)
 - [SSH Key-Based Authentication, Configure SSH to use key-based authentication for improved security](#SSH-Key-Based-Authentication,-Configure-SSH-to-use-key-based-authentication-for-improved-security)
 - [Set up and manage logical volumes using customized LVM configurations](#Set-up-and-manage-logical-volumes-using-customized-LVM-configurations)
