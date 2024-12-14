@@ -22,7 +22,6 @@ SSH relies on the public-key cryptography to authenticate the remote system and 
 7. The client generates a random session key and encrypt it with the server’s public key.
 8. The server decrypts the session key using its private key.
 9. The connection between the client and the server is now secured by encrypting each data using the session key.
-[References](https://blog.zedas.fr/posts/linux-explained-8-ssh/)
 
 Then, the user is authenticated. This diagram displays the two authentication protocols : pub key then password.
 ![Screenshot from 13-12-2024 2 10-05-24](https://i.ibb.co.com/j5FLjj0/ssh-authentication.png) 
