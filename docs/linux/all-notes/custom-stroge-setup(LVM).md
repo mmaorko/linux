@@ -9,17 +9,17 @@ LVM (Logical Volume Manager) is a flexible and powerful disk management system i
     
  ![enter image description here](https://i.ibb.co.com/LR3mfMw/1.png)
  
- 3. Select free space, and create a volume for boot![enter image description here](https://i.ibb.co.com/dLjqQMw/2.png)
+ 2. Select free space, and create a volume for boot![enter image description here](https://i.ibb.co.com/dLjqQMw/2.png)
 
- ![enter image description here](https://i.ibb.co.com/3Yx3sFg/3.png)
+ ![For boot space Volume](https://i.ibb.co.com/3Yx3sFg/3.png)
  
-For boot space Volume
 
  3. Then again click the free space and GPT partition to /dev/sda ![enter image description here](https://i.ibb.co.com/vXnX9ZD/5.png)
  
- 4. Then create an LVM volume group ![enter image description here](https://i.ibb.co.com/Y8vJpmK/6.png)
+ 4. Then create an LVM volume group for Creating single logical volumes of multiple physical volumes or entire hard disks 
+    ![LVM volume group](https://i.ibb.co.com/Y8vJpmK/6.png)
 
- 5. Then again click the free space and add logical volume under home ![enter image description here](https://i.ibb.co.com/hXvHNqV/7-logical-volume-create.png)
+ 6. Then again click the free space and add logical volume under home ![enter image description here](https://i.ibb.co.com/hXvHNqV/7-logical-volume-create.png)
 
- 6. Add logical volume for the database server ![enter image description here](https://i.ibb.co.com/sqNJ1M5/7-logical-volume-create-for-database-inside-var.png)
+ 7. Add logical volume for the database server ![enter image description here](https://i.ibb.co.com/sqNJ1M5/7-logical-volume-create-for-database-inside-var.png)
 
