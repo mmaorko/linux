@@ -6,10 +6,13 @@ LVM (Logical Volume Manager) is a flexible and powerful disk management system i
 **LVM Setup Storage Management step by step**
 
  1. First of all select the custom storage layout then click done.
+    
  ![enter image description here](https://i.ibb.co.com/LR3mfMw/1.png)
- 2. Select free space, and create a volume for boot![enter image description here](https://i.ibb.co.com/dLjqQMw/2.png)
+ 
+ 3. Select free space, and create a volume for boot![enter image description here](https://i.ibb.co.com/dLjqQMw/2.png)
 
  ![enter image description here](https://i.ibb.co.com/3Yx3sFg/3.png)
+ 
 For boot space Volume
 
  3. Then again click the free space and GPT partition to /dev/sda ![enter image description here](https://i.ibb.co.com/vXnX9ZD/5.png)
