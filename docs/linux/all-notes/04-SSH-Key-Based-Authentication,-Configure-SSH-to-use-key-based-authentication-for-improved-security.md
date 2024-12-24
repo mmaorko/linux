@@ -47,19 +47,23 @@ it is crucial to follow best practices to ensure that your SSH keys remain secur
 ### **Step 1: Generate an SSH Key Pair**
 
 1.  **Open Terminal:** On your local machine, open a terminal. Generate Key Pair and run the following command:
+
 `ssh-keygen -t rsa -b 4096`
   ### **Step 2: Copy the Public Key to the Server**
-1.  **Use** `ssh-copy-id` **Command:**
+1.  **Use** `ssh-copy-id` **Command:**\
 `ssh-copy-id username@server_ip`
 
 ### step 3: Log in to your server:
 first of all test ssh connection
+
 `ssh username@server_ip`
 ### Step 4: Optional - Create SSH Config File
-To simplify connections, you can create an SSH config file (~/.ssh/config) on your local machine. Edit the file with a text editor.  
+To simplify connections, you can create an SSH config file (~/.ssh/config) on your local machine. Edit the file with a text editor. 
+
 `vim ~/.ssh/config`
 
-Add the following lines, replacing "hostname" with your remote host's address and "key" with the path to your private key.\
+Add the following lines, replacing "hostname" with your remote host's address and "key" with the path to your private key.
+
 
 ```
 Host myhost
